@@ -1,4 +1,4 @@
-# Chart.js with Rails
+# Chart.js with Rails 7
 
 This is a sample Rails application that integrates the Chart.js library to render interactive charts on the frontend. The project demonstrates how to use Chart.js within a Rails environment, utilizing either `importmap`  for dependency management.
 
